@@ -1,0 +1,76 @@
+Elementos conceptuales: punto, línea, plano, volumen
+Elementos visuales: forma, medida, color, textura
+Elementos de relación: dirección, posición, espacio, gravedad
+Elementos prácticos: representación, significado y función
+
+Principios de diseño:
+Equilibrio(Balance), Movimiento(Movement), Repetición/Ritmo(Repetition/Rhythm), Énfasis(Emphasis), 
+Contraste (Contrast), Unidad(Unity), Alineamiento(Alignment)
+
+Elementos de diseño: Line, Color, Shape, Size, Value, Texture, Space
+
+Leyes Gestalt
+1. Ley de la proximidad. Los elementos próximos entre sí se perciben como una unidad. 
+Por lo tanto, hay que agrupar los elementos que guarden relación entre sí.
+2.Ley de la semejanza. Se agrupan elementos que guardan relación pero a través de elementos gráficos 
+en vez de proximidad.
+3.Ley del cierre. Se agrupan elementos mediante líneas reales o imaginarias.
+4.Ley de continuidad o destino común. Los elementos alineados forman un conjunto ya que cambia
+el sentido de lectura.
+5.Ley del contraste. El texto debe tener contraste con el fondo para garantizar su legibilidad.
+6.Ley de la experiencia. Se debe tener en cuenta la experiencia del usuario objetivo de la página web.
+
+Guía de estilo: Se recogen datos como la gama de colores, los iconos, la tipografía o el tamaño de las letras.
+El color. 
+-Complementario es aquel que produce el mayor contraste de tono con respecto a otro.
+-Contraste reduce la fatiga visual y enfoca la atención del usuario.
+-Vitalidad dicta la emoción del diseño.
+-Mono es un color con sus tonalidades.
+-Análogo son los circundantes en la rueda de color.
+-Dividir complementario. Coges dos parejas de complementarios.
+-Triádico. Tres colores equidistantes.
+-Tetrádico. Dos pares de complementarios formando un rectángulo.
+
+Tipografía
+@font-face
+Es una directiva que permite incrustar fuentes que no están instaladas en el dispositivo desde Google fonts.
+Serif. Dificulta la lectura. Solo para títulos.
+Sans-serif. Texto central.
+
+Elementos de una interfaz web:
+Identificación: Nombre de la web, logotipo y la imagen de cabecera.
+Navegación: Menú principal superior, Widgets, aside de navegación, footer, home, breadcrumbs.
+Contenidos: Información destacada de la web
+Interacción: Cambiar idioma, buscador, carrito de compra, suscripción newsletter.
+
+Componentes de una interfaz web:
+Cabecera, menú de navegación, cuerpo, pie de página.
+Otros: Acordeón, action bar, banner, barra de búsqueda, barra lateral, barra de progreso, botones, Call to action
+carrito, carrusel, contador, contact form, galería de imágenes, iconos, newsletter, navbar, toggle, breadcrumbs,
+tabs, cookies, social media, idiomas, slider, tooltip, popup.
+
+Usabilidad: Medida en la que un producto puede ser usado por determinados usuarios con efectividad,
+eficiencia y satisfacción. Un sistema usable debe ser eficiente, simple, fácil de aprender y recordar,
+tolerante a los errores y subjetivamente agradable.
+
+Los 10 principios de Jakob Nielsen.
+1. Visibilidad del estatus del sistema. Informar al usuario sobre lo que ocurre en la página cuando se interactúa.
+2. Relación entre el sistema y el mundo real. Mismo lenguaje que el usuario, orden de las cosas, imágenes.
+3. Control y libertad del usuario. Funciones deshacer y rehacer, salidas de emergencia para funciones no deseadas.
+4. Consistencia y estándares. Los elementos deben ser iguales en aspecto, función y posición.
+5. Prevención de errores. Comprobaciones en tiempo real de errores de la página y del usuario.
+6. Reconocimiento antes que recuerdo. El usuario no debería recordar como realizar acciones básicas.
+7. Flexibilidad y eficiencia de uso. Atajos para realizar acciones frecuentes.
+8. Diseño estético y minimalista. Evitar uso innecesario de palabras en descripciones.
+9. Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores. Mensajes claros y llanos 
+con soluciones alternativas.
+10. Ayuda y documentación. Fácil de encontrar, enfocada al usuario, concreta y concisa.
+
+Accesibilidad web: Posibilidad de que una web pueda ser accedida y usada por el mayor número posible de personas,
+a pesar de sus limitaciones.
+
+Mapas conceptuales. Es una representación gráfica de conceptos interrelacionados.
+Mapas de navegación. Sirven para representar la arquitectura de las páginas de un sitio web
+Sitemaps. Son archivos que proporcionan información sobre el sitio web para los motores de búsqueda.
+
+Prototyping, Sketching y Wireframing.
