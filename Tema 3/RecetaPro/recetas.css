@@ -1,0 +1,110 @@
+body{
+    background-color:lightblue;
+    text-align: center;
+    
+}
+
+h1{
+    color:gold;
+    position: relative;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+}
+h3{
+    font-size: 32px;
+    text-shadow: 2px 2px 2px black;
+}
+h4{
+    font-size: 26px;
+    text-shadow: 2px 2px 2px black;
+}
+h3::first-letter {
+    font-size: 70px;
+}
+h4+p{
+    border: 1px solid lime;
+    margin-left: 20%;
+    margin-right: 10%;
+    padding: 2em;
+    text-align: left;
+}
+h4+p::selection {
+    color: red;
+    background: yellow;
+}
+table{
+    text-align: center;
+    margin-left: 44%;
+}
+@keyframes anime {
+    from {background-color: lightblue;}
+    to {background-color:blueviolet;}
+  }
+header{    
+    position: -webkit-sticky;
+    position: sticky; 
+    top: 0;
+    border: 5px solid red;
+    background-color: blueviolet;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 1em;
+    opacity: 1;
+    box-shadow: 2px 2px blue;
+    animation-name: anime;
+  animation-duration: 4s;
+}
+header a{
+    color:gold;
+    text-decoration: none;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+a:hover{
+    color: salmon;
+    text-shadow: 2px 2px darkred;
+}
+
+nav li{
+    display: inline;
+    padding: 1em;
+    margin-left: 1em;
+}
+footer{
+    border:5px solid crimson;
+    padding: 2em;
+    font-size: 20px;
+    text-align: left;
+}
+.anchor a {
+    position: relative;
+    left: 0px;
+    top: -200px;
+}
+footer>p{
+    margin-left: 80%;
+}
+footer>div{
+    margin-left: 10%;
+}
+img{
+    width: 50em;
+    border: 2px solid orangered;
+    border-radius: 8px;
+}
+
+#receta1{
+    background-color: tomato;
+    color: lightyellow;
+}
+#receta2{
+    color:yellow;
+    background-color:blue; 
+}
+#receta3{
+    color:darkred;
+    background-color: lightcoral;
+
+}
+
+
+
