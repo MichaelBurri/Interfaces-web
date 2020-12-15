@@ -1,0 +1,13 @@
+@media (max-width:567px){
+
+    body{
+        background-color: beige;
+    }
+}
+
+
+@media (min-width:568px){
+    body{
+        background-color: beige;
+    }
+}
