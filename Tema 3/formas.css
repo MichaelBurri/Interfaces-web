@@ -1,0 +1,12 @@
+div{
+    float: left;
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 65px;
+    width: 160px;
+    text-align: center;
+    border-top-left-radius: 40% 10%;
+    border-bottom-right-radius: 40% 10%;
+    border-top-right-radius: 10% 40%;
+    border-bottom-left-radius: 10% 40%;
+}

@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.columna1{
+    background-color: red;
+}
+.columna2{
+    background-color: yellow;
+}
+.columna3{
+    background-color: blue;
+}
+.columna4{
+    background-color: green;
+}
+.columna5{
+    background-color: lightcoral;
+}
+.columna1,.columna2,.columna3,.columna4,.columna5{
+    height: 300px;
+    width: 100%;
+}
+
+@media all and (min-width:568px){
+    .columna1{
+        width: 100%;        
+    }
+    .columna2,.columna3,.columna4,.columna5{
+        width: 50%;
+    }
+}
+@media all and (min-width:768px){
+    .columna1{
+        width: 60%;
+    }
+    .columna2{
+        width: 40%;
+    }
+    .columna3,.columna4,.columna5{
+        width: 33.333%;
+    }
+}
